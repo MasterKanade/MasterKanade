@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasterKanade
 - 👀 I’m interested in the latest technology trends.
-- 🌱 I’m currently learning Java language and its frameworks as well as DevOps with GCP.
-- 💞️ I’m looking to collaborate on DevOps and Java Frameworks as well as SQL and NoSQL functionalities.
+- 🌱 I’m currently learning Backend languages such as Nodejs and Python and its frameworks as well as DevOps with GCP.
+- 💞️ I’m looking to collaborate on DevOps with Nodejs and Python Frameworks as well as SQL and NoSQL functionalities.
 - 📫 How to reach me: mastermayurkanade@gmail.com
 
 <!---
